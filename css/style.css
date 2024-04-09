@@ -529,6 +529,7 @@ button.donate_btn {
     width: 100%;
     float: left;
     font-size: 16px;
+    height: auto;
     margin: 0px;
     color: #ffffff;
     padding: 50px 0px;
